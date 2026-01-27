@@ -1,36 +1,3 @@
 # devops-netology
 
-����
-
-����� ������� ����� ��������������� � .gitignore:
-# Local .terraform directories
-.terraform/
-
-# .tfstate files
-*.tfstate
-*.tfstate.*
-
-# Crash log files
-crash.log
-crash.*.log
-
-# Exclude all .tfvars files, which are likely to contain sensitive data, such as
-# password, private keys, and other secrets. These should not be part of version
-# control as they are data points which are potentially sensitive and subject
-# to change depending on the environment.
-*.tfvars
-*.tfvars.json
-
-# Ignore override files as they are usually used to override resources locally and so
-# are not checked in
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
-
-# Ignore transient lock info files created by terraform apply
-.terraform.tfstate.lock.info
-
-# Ignore CLI configuration files
-.terraformrc
-terraform.rc
+В git репозиторий не будут храниться локальные настройки Terraform, файлы состояния, логи ошибок, файлы с секретами (tfvars) и временные файлы блокировок. Только основной код конфигурации (все что не закомиченно).
