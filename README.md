@@ -8,3 +8,9 @@
   - файлы конфигурации .terraformrc и terraform.rc
 
 Новая строка в ветке fix
+
+Привет PyChrm
+
+PyCharm (1)
+
+PyCharm (2)
