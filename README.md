@@ -1,8 +1,8 @@
 # devops-netology
 
-Тест
+пїЅпїЅпїЅпїЅ
 
-Файлы которые будут проигнорированы в .gitignore:
+пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ .gitignore:
 # Local .terraform directories
 .terraform/
 
@@ -34,3 +34,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+
+РќРѕРІР°СЏ СЃС‚СЂРѕРєР° РІ РІРµС‚РєРµ fix
