@@ -19,4 +19,4 @@ PyCharm (3)
 
 ## Задание 4
 
-![PyCharm]()
+![PyCharm](https://github.com/Doskaks/devops-netology/blob/fix/PyCharm.jpg)
