@@ -19,4 +19,6 @@ Network graph:
 
 https://github.com/Doskaks/devops-netology/network
 
-Ветвление (граф) веток в Git:
+Ветвление (граф) веток в Git (командная строка):
+
+![Ветвление (граф) веток в Git (командная строка](https://github.com/Doskaks/devops-netology/blob/main/branching/02-git-03-branching/Graph%20%D0%B2%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B5.jpg)
