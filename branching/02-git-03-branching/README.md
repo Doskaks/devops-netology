@@ -19,3 +19,4 @@ Network graph:
 
 https://github.com/Doskaks/devops-netology/network
 
+Ветвление (граф) веток в Git:
